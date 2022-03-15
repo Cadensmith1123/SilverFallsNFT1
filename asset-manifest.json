@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SilverFallsNFT1/static/css/main.1bc0f497.css",
-    "main.js": "/SilverFallsNFT1/static/js/main.57af0441.js",
+    "main.css": "/SilverFallsNFT1/static/css/main.7c7a718f.css",
+    "main.js": "/SilverFallsNFT1/static/js/main.b6bdde4b.js",
     "static/media/water.gif": "/SilverFallsNFT1/static/media/water.58861f98151be0c2fea4.gif",
     "static/media/linkedin.png": "/SilverFallsNFT1/static/media/linkedin.eca97cbf4c9d42686fcf.png",
     "index.html": "/SilverFallsNFT1/index.html",
-    "main.1bc0f497.css.map": "/SilverFallsNFT1/static/css/main.1bc0f497.css.map",
-    "main.57af0441.js.map": "/SilverFallsNFT1/static/js/main.57af0441.js.map"
+    "main.7c7a718f.css.map": "/SilverFallsNFT1/static/css/main.7c7a718f.css.map",
+    "main.b6bdde4b.js.map": "/SilverFallsNFT1/static/js/main.b6bdde4b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bc0f497.css",
-    "static/js/main.57af0441.js"
+    "static/css/main.7c7a718f.css",
+    "static/js/main.b6bdde4b.js"
   ]
 }
